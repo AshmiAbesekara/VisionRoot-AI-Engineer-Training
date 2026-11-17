@@ -28,3 +28,7 @@ Output: Error: Message cannot be empty!
 ## Status
 Input handling and error handling completed.
 Environment variable configuration pending.
+
+
+- Used python-dotenv to load application configuration from a .env file.
+- Added a .gitignore file to prevent environment configuration from being committed.
